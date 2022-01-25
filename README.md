@@ -28,4 +28,5 @@ Bold **_&_** Italic
 ***All bold and italic***
 
 And the text is back to normal
+
 Note: spaces are very important
