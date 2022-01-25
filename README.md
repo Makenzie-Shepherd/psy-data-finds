@@ -21,10 +21,10 @@ Adding an emoji 🌺
 🥞 🧇 🥓
 
 Additional syntaxes include:
-**Bold**
-*Italic*
-~~Strikethrough~~
-Bold **_&_** Italic
+**Bold**,
+*Italic*,
+~~Strikethrough~~,
+Bold **_&_** Italic,
 ***All bold and italic***
 
 And the text is back to normal
